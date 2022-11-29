@@ -1,0 +1,16 @@
+=> network module <= 
+====================
+
+basic module consist of : 
+
+1 vcn 
+1 public subnet
+1 internet gateway
+1 route table 
+1 route table attachment 
+1 security list 
+
+############################
+
+basic infra to prepare network for compute instance 
+
